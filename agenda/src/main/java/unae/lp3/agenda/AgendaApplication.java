@@ -1,4 +1,4 @@
-package com.example.demo;
+package unae.lp3.agenda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
